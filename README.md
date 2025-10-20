@@ -14,6 +14,13 @@ There are three main features:
 2.  **Verse Explainer:** After fetching a verse, the app can provide a simple and easy-to-understand explanation of what the verse means.
 3.  **Truth Finder:** This feature lets you test your own understanding. You can write your own explanation for a verse, and the app will use the Gemini API to tell you if your explanation is "True" or "False".
 
+### Use Cases:
+
+*   **For Students:** Quickly look up verses for a paper or study guide.
+*   **For Teachers:** Prepare for a lesson by getting a simple explanation of a verse.
+*   **For Personal Study:** Test your own understanding of a verse and get immediate feedback.
+*   **For a Friend:** Easily share a verse and its explanation with someone who is curious.
+
 To run this project, you'll need to have Python and Streamlit installed. You'll also need to get a Gemini API key and store it in a `.env` file in the project's root directory.
 
 To start the app, run the following command in your terminal:
