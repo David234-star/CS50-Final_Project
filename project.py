@@ -160,7 +160,7 @@ def main():
 
     # Configure the Gemini API
     try:
-        genai.configure(api_key="AIzaSyBzU_eteKbrrDdtvXvGp5UKD7LKbc1qTok")
+        genai.configure(api_key="AIzaSyBZCSr2otpqNtM5pkwST-i1Fi15WJdN2Hg")
     except Exception as e:
         st.error(f"Error configuring the Gemini API: {e}")
         st.info("Please make sure you have a .env file with your GEMINI_API_KEY.")
