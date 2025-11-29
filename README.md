@@ -1,6 +1,6 @@
 # CS50-Final_Project
 
-#### Video Demo: [Video]()
+#### Video Demo: [Video](https://youtu.be/HMzdar7v1oA?si=-CXDyXdrdDfABQp6)
 
 #### Live on: [App](https://projectpy-hjvgyzprbcqqgbzsudewiv.streamlit.app/)
 
