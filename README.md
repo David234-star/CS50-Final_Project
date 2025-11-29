@@ -16,10 +16,10 @@ There are three main features:
 
 ### Use Cases:
 
-*   **For Students:** Quickly look up verses for a paper or study guide.
-*   **For Teachers:** Prepare for a lesson by getting a simple explanation of a verse.
-*   **For Personal Study:** Test your own understanding of a verse and get immediate feedback.
-*   **For a Friend:** Easily share a verse and its explanation with someone who is curious.
+- **For Students:** Quickly look up verses for a paper or study guide.
+- **For Teachers:** Prepare for a lesson by getting a simple explanation of a verse.
+- **For Personal Study:** Test your own understanding of a verse and get immediate feedback.
+- **For a Friend:** Easily share a verse and its explanation with someone who is curious.
 
 To run this project, you'll need to have Python and Streamlit installed. You'll also need to get a Gemini API key and store it in a `.env` file in the project's root directory.
 
